@@ -12,10 +12,10 @@
 	"DXS_weather": 1.0,
 	"DXS_storesystem": 1.0,
 	"DXS_crafting": 1.4,
-	"DXS_creator": 1.4,
-	"DXS_carlock": 1.1,
-	"DXS_FpsMenu": 1.2,
-	"DXS_GangSystem": 1.0,
-	"DXS_Multichars": 1.1,
+	"DXS_creator": 1.5,
+	"DXS_carlock": 1.2,
+	"DXS_FpsMenu": 1.3,
+	"DXS_GangSystem": 1.1,
+	"DXS_Multichars": 1.2,
 	"dxs_inventorylogs": 1.0
 }
